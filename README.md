@@ -5,7 +5,7 @@
 - 🌱 Actualmente estoy aprendiendo desarrollo web para ampliar mis habilidades como programador.
 - 💼 Trabajo en proyectos que combinan IA, análisis de datos y aplicaciones web.
 - 💬 Puedes preguntarme sobre Python, machine learning o proyectos relacionados con IoT.
-- 📫 Cómo contactarme: [Correo electrónico](mailto:jairo.alejandro@example.com)
+- 📫 Cómo contactarme: [Correo electrónico](alejomunoz0406@gmail.com)
 - ⚡ Dato curioso: Disfruto explorando nuevos lenguajes de programación y frameworks.
 
 ## Estadísticas de GitHub
