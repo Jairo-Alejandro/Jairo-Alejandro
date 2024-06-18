@@ -1,4 +1,4 @@
-### ¡Hola, soy Jairo Alejandro! 👋
+### ¡Hola, soy Alejandro Muñoz! 👋
 
 ## Sobre Mí
 - 🎓 Soy ingeniero electrónico con bases en inteligencia artificial, tratamiento de datos y programación enfocada en sensores y actuadores para implementaciones en IoT.
